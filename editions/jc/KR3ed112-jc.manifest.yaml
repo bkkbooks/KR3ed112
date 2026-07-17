@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ed112_000-jc.yaml, hash: 'sha256:aafded0257ff74ed546c5eb6a56d05e22f3cdd8ec5ea90be5ff31d511b6f83bd'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed112_000-jc.markers.yaml, hash: 'sha256:2ece82e16cfbfba8c57a7916603f662d1dea906296c75dbb42da781382bc8fb4'}
+  - {seq: 0, role: markers, filename: assets/KR3ed112_000-jc.markers.yaml, hash: 'sha256:5c8ac5d670408b090963a504d18a842980685bda91bed70686ce404f61aeecd8'}
 table_of_contents:
 - ref:
     seq: 0
@@ -571,4 +571,4 @@ table_of_contents:
   label: 諸般奇症
   type: section
   level: 2
-hash: sha256:d6252d088d1dcdae33a010cfdd0df3189cbd158f24b58d0af1713285d1396be4
+hash: sha256:8ad8051c83546302ba1274974f58a4086eb257b13f74571b86a11848265a8a28
